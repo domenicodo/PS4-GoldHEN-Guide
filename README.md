@@ -53,7 +53,7 @@ In this guide any file mentioned will be listed in (Releases).
 - Icon Mask [Lapy](https://github.com/Lapy055) - [PSXHAX](https://www.psxhax.com/members/lapy.527357/)
 - Itemzflow [LightiningMods](https://github.com/LightningMods/) - [Ko-fi](https://ko-fi.com/lightningmods) - BTC: bc1qgclk220glhffjkgraju7d8xjlf7teks3cnwuu9
 - Netflix [HK31](https://www.psxhax.com/members/hk31.484616/)
-- PS4 FTP Client [cy33hc](https://github.com/cy33hc) [PSXHAX](https://www.psxhax.com/members/cy33hc.687263/)
+- PS4 FTP Client [cy33hc](https://github.com/cy33hc) - [PSXHAX](https://www.psxhax.com/members/cy33hc.687263/)
 - PS4 Media Player [HK31](https://www.psxhax.com/members/hk31.484616/)
 - PS4-Xplorer 2.0 [Lapy](https://github.com/Lapy055) - [PSXHAX](https://www.psxhax.com/members/lapy.527357/)
 - Payload Guest [Al-Azif](https://github.com/Al-Azif/)
