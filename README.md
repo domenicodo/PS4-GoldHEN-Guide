@@ -16,6 +16,8 @@ In this guide any file mentioned will be listed in (Releases).
 
 - [GoldHEN](https://github.com/GoldHEN/GoldHEN)
 
+---
+
 - [Apollo Save Tool](https://github.com/bucanero/apollo-ps4)
 - [GoldHEN Cheat Manager](https://github.com/GoldHEN/GoldHEN_Cheat_Manager)
 - [Icon Mask]()
@@ -27,6 +29,8 @@ In this guide any file mentioned will be listed in (Releases).
 - [Payload Guest](https://github.com/Al-Azif/ps4-payload-guest)
 - [YouTube TV]()
 - [YouTube (9.00ver)]()
+
+---
 
 - [AT9 - AT3 Converter](https://www.psx-place.com/resources/at9-at3-converter.566/)
 - [DB Browser for SQLite](https://sqlitebrowser.org/)
@@ -41,6 +45,8 @@ In this guide any file mentioned will be listed in (Releases).
 
 - GoldHEN [SiSTR0](https://ko-fi.com/SiSTRo) [GoldHEN](https://github.com/GoldHEN/GoldHEN)
 
+---
+
 - Apollo Save Tool  [bucanero](https://github.com/bucanero/apollo-ps4) [PayPal](https://www.paypal.me/bucanerodev)
 - GoldHEN Cheat Manager [GoldHEN](https://github.com/GoldHEN/) [Patreon](https://patreon.com/dparrino) [PayPal](https://www.paypal.me/bucanerodev)
 - Icon Mask []() []()
@@ -52,6 +58,8 @@ In this guide any file mentioned will be listed in (Releases).
 - Payload Guest [Al-Azif](https://github.com/Al-Azif/)
 - YouTube TV []() []()
 - YouTube (9.00ver) []() []()
+
+---
 
 - AT9 - AT3 Converter []() []()
 - DB Browser for SQLite [sqlitebrowser](https://github.com/sqlitebrowser/) [Patreon](https://www.patreon.com/db4s)
