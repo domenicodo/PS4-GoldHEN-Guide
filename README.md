@@ -69,5 +69,5 @@ In this guide any file mentioned will be listed in (Releases).
 - PS4 Offline Account Activator [charlyzard](https://github.com/charlyzard)
 - PS4 Save Mounter [ChendoChap](https://github.com/ChendoChap/)
 - PS4-AIO [jation](https://www.psxhax.com/members/508878/)
-- PS4PKGViewer [LMAN aka TheLeecherMan](https://sites.google.com/site/theleecherman/home) [PayPal](https://www.paypal.com/paypalme/LeecherMan)
+- PS4PKGViewer [LMAN aka TheLeecherMan](https://sites.google.com/site/theleecherman/home) - [PayPal](https://www.paypal.com/paypalme/LeecherMan)
 
