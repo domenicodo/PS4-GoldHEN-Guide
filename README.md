@@ -43,26 +43,26 @@ In this guide any file mentioned will be listed in (Releases).
 
 # Credits & Donations
 
-- GoldHEN [SiSTR0](https://ko-fi.com/SiSTRo) [GoldHEN](https://github.com/GoldHEN/GoldHEN)
+- GoldHEN [SiSTR0](https://ko-fi.com/SiSTRo) - [GoldHEN](https://github.com/GoldHEN/GoldHEN)
 
 ---
 
-- Apollo Save Tool  [bucanero](https://github.com/bucanero/apollo-ps4) [PayPal](https://www.paypal.me/bucanerodev)
-- GoldHEN Cheat Manager [GoldHEN](https://github.com/GoldHEN/) [Patreon](https://patreon.com/dparrino) [PayPal](https://www.paypal.me/bucanerodev)
+- Apollo Save Tool  [bucanero](https://github.com/bucanero/apollo-ps4) - [PayPal](https://www.paypal.me/bucanerodev)
+- GoldHEN Cheat Manager [GoldHEN](https://github.com/GoldHEN/) - [Patreon](https://patreon.com/dparrino) - [PayPal](https://www.paypal.me/bucanerodev)
 - Icon Mask []() []()
-- Itemzflow [LightiningMods](https://github.com/LightningMods/) [Ko-fi](https://ko-fi.com/lightningmods) BTC: bc1qgclk220glhffjkgraju7d8xjlf7teks3cnwuu9
-- Netflix []() []()
+- Itemzflow [LightiningMods](https://github.com/LightningMods/) - [Ko-fi](https://ko-fi.com/lightningmods) - BTC: bc1qgclk220glhffjkgraju7d8xjlf7teks3cnwuu9
+- Netflix []() - []()
 - PS4 FTP Client [cy33hc](https://github.com/cy33hc)
-- PS4 Media Player []() []()
-- PS4-Xplorer 2.0 []() []()
+- PS4 Media Player []() - []()
+- PS4-Xplorer 2.0 []() - []()
 - Payload Guest [Al-Azif](https://github.com/Al-Azif/)
-- YouTube TV []() []()
-- YouTube (9.00ver) []() []()
+- YouTube TV []() - []()
+- YouTube (9.00ver) []() - []()
 
 ---
 
-- AT9 - AT3 Converter []() []()
-- DB Browser for SQLite [sqlitebrowser](https://github.com/sqlitebrowser/) [Patreon](https://www.patreon.com/db4s)
+- AT9 - AT3 Converter []() - []()
+- DB Browser for SQLite [sqlitebrowser](https://github.com/sqlitebrowser/) - [Patreon](https://www.patreon.com/db4s)
 - Duxa's PS4 Patch Repackager 7.2.18 [Chrushev](https://www.psxhax.com/members/357134/)
 - PS4 Offline Account Activator [charlyzard](https://github.com/charlyzard)
 - PS4 Save Mounter [ChendoChap](https://github.com/ChendoChap/)
