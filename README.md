@@ -16,6 +16,7 @@ In this guide any file mentioned will be listed in (Releases).
 
 - [GoldHEN](https://github.com/GoldHEN/GoldHEN)
 - [GoldHEN Host](https://github.com/KAR0218/KAR0218.github.io)
+- [PS4 9.00 Kernel Exploit (exfathax.img)](https://github.com/ChendoChap/pOOBs4)
 
 ---
 
@@ -48,6 +49,7 @@ In this guide any file mentioned will be listed in (Releases).
 
 - GoldHEN [SiSTR0](https://ko-fi.com/SiSTRo) - [GoldHEN](https://github.com/GoldHEN/GoldHEN)
 - GoldHEN Host [KAR0218](https://github.com/KAR0218/)
+- PS4 9.00 Kernel Exploit (exfathax.img) [ChendoChap](https://github.com/ChendoChap)
 
 ---
 
