@@ -28,6 +28,7 @@ In this guide any file mentioned will be listed in (Releases).
 - [Netflix](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)
 - [PS4 FTP Client](https://github.com/cy33hc/ps4-ftp-client)
 - [PS4 Media Player](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)
+- [PS4 Patch Installer](https://orbispatches.com/homebrew)
 - [PS4-Xplorer 2.0](https://www.psxhax.com/threads/ps4-xplorer-v2-01-file-manager-by-lapy05575948-ps4-player-preview-video.6718/)
 - [Payload Guest](https://github.com/Al-Azif/ps4-payload-guest)
 - [Store-R2](https://pkg-zone.com)
@@ -62,6 +63,7 @@ In this guide any file mentioned will be listed in (Releases).
 - PS4 FTP Client [cy33hc](https://github.com/cy33hc) - [PSXHAX](https://www.psxhax.com/members/cy33hc.687263/)
 - PS4 Media Player [HK31](https://www.psxhax.com/members/hk31.484616/)
 - PS4-Xplorer 2.0 [Lapy](https://github.com/Lapy055) - [PSXHAX](https://www.psxhax.com/members/lapy.527357/)
+- PS4 Patch Installer [0x199](https://twitter.com/0x199)
 - Payload Guest [Al-Azif](https://github.com/Al-Azif/)
 - Store-R2 [LightiningMods](https://github.com/LightningMods/) - [Ko-fi](https://ko-fi.com/lightningmods) - BTC: bc1qgclk220glhffjkgraju7d8xjlf7teks3cnwuu9
 - YouTube TV [HK31](https://www.psxhax.com/members/hk31.484616/)
