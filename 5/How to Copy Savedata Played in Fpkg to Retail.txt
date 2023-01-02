@@ -1,0 +1,38 @@
+Using PS4 Mounter for 9.00 & FileZilla
+
+In PS4
+
+1- Run PS4 Debug Payload
+2- Run FTP Server
+
+
+In Your Computer (PS4 Save Mounter)
+
+1- Connect to the PS4
+2- Click "Setup"
+3- Click "Get Games"
+4- Select the "CUSAXXXXX"
+5- Click "Search"
+6- Choose the "Savedata" you want
+7- Click "Mount"
+
+
+In Your Computer (FileZilla)
+
+1- Connect to PS4
+2- Go to "/mnt/sandbox/NBSX2001_/savedata0" Folder
+
+3- Replace the "keystone" file
+
+4- Click "Unmount"
+
+5- Then copy the savedata from "user/home/PSN-ID/savedata"
+
+6- Either using -FileZilla--Or--PS4-Xplorer-
+
+7- Rename the save "sdimg_SAVE_NAME" to "SAVE_NAME" removing "sdimg_"
+
+And copy it to your retail PS4
+Using your Flash 
+
+F:/PS4/SAVEDATA/Account-ID/CUSAXXXXX/Savedata-Files

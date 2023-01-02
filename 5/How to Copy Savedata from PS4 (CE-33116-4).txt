@@ -1,0 +1,11 @@
+USING "FTP" "Filezilla" Or "PS4-Xplorer"
+
+1. ) Enable "FTP Server" in PS4
+2. ) Connect to PS4 using "Filezilla"
+
+1.1 ) Play "PS4-Xplorer"
+
+3. ) Go to /user/home/19de3951/savedata
+3.1 ) "19de3951" May have another name
+4. ) Find your Game's "CUSAXXXXX"
+5. ) Copy it

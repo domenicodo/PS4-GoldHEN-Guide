@@ -1,0 +1,20 @@
+You can change app icons using "FTP"
+
+Recrop the picture you want to "512x512" or "660x660" For PS4PRO 
+Rename the picture you want to "icon0.png" or "icon0_4k.png" For PS4PRO
+
+Select the icon you want to change from the directory list
+Replace "icon0.png" & "icon_4k.png" with the picture you want
+
+
+Directory List
+
+For Profile Picture - system_data/priv/cache/profile/"Here"
+
+"440x440" Called "avatar.png"
+"440x440" Called "avatar440.dds"
+"260x260" Called "avatar260.dds"
+"128x128" Called "avatar128.dds"
+"64x64" Called "avatar64.dds"
+
+ONLY FOR "Profile Picture"
