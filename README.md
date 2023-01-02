@@ -15,6 +15,7 @@ GoldHEN Sections: [Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)
 In this guide any file mentioned will be listed in (Releases).
 
 - [GoldHEN](https://github.com/GoldHEN/GoldHEN)
+- [GoldHEN Host](https://github.com/KAR0218/KAR0218.github.io)
 
 ---
 
@@ -46,6 +47,7 @@ In this guide any file mentioned will be listed in (Releases).
 # Credits & Donations
 
 - GoldHEN [SiSTR0](https://ko-fi.com/SiSTRo) - [GoldHEN](https://github.com/GoldHEN/GoldHEN)
+- GoldHEN Host [KAR0218](https://github.com/KAR0218/)
 
 ---
 
