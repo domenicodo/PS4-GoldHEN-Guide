@@ -40,6 +40,7 @@ In this guide any file mentioned will be listed in (Releases).
 - [PS4 Save Mounter](https://github.com/ChendoChap/Playstation-4-Save-Mounter)
 - [PS4-AIO](https://www.psxhax.com/threads/ps4-aio-batch-file-script-for-games-updates-with-fpkg-tools-by-jation.12537/)
 - [PS4PKGViewer](https://sites.google.com/site/theleecherman/ps4pkgviewer)
+- [Rufus](https://rufus.ie/en/)
 
 
 # Credits & Donations
@@ -70,4 +71,5 @@ In this guide any file mentioned will be listed in (Releases).
 - PS4 Save Mounter [ChendoChap](https://github.com/ChendoChap/)
 - PS4-AIO [jation](https://www.psxhax.com/members/508878/)
 - PS4PKGViewer [LMAN aka TheLeecherMan](https://sites.google.com/site/theleecherman/home) - [PayPal](https://www.paypal.com/paypalme/LeecherMan)
+- Rufus [pbatard](https://github.com/pbatard)
 
