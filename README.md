@@ -3,7 +3,7 @@ This is a repository contains a guide for how to enable GoldHEN (Homebrew ENable
 
 GoldHEN Sections: [Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)
 
-- [How to Self Host]() (Optional)
+- [How to Self Host GoldHEN]() (Optional)
 - [Enabling GoldHEN]()
 - [Installing Apps, Games, Updates & Themes]()
 - [Customizing]()
