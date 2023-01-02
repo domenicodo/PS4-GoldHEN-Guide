@@ -3,12 +3,12 @@ This is a repository contains a guide for how to enable GoldHEN (Homebrew ENable
 
 GoldHEN Sections: [Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)
 
-- [Preparing]()
-- [How to Self Host GoldHEN]()
-- [Enabling GoldHEN]()
-- [Installing Apps, Games, Updates & Themes]()
-- [Customizing]()
-- [Creating Activated PSN Account & Installing Encrypted Savedata]()
+- [Preparing](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki/0.-Preparing)
+- [How to Self Host GoldHEN](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki/1.-How-to-Self-Host-GoldHEN)
+- [Enabling GoldHEN](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki/2.-Enabling-GoldHEN)
+- [Installing Apps, Games, Updates & Themes](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki/3.-Installing-Apps,-Games,-Updates,-&-Themes)
+- [Customizing](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki/4.-Customizing)
+- [Creating Activated PSN Account & Installing Encrypted Savedata](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki/5.-Creating-Activated-PSN-Account-&-Installing-Encrypted-Savedata)
 
 
 # Donwloads & Forums
