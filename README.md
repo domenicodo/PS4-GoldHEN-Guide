@@ -40,6 +40,7 @@ In this guide any file mentioned will be listed in (Releases).
 - [AT9 - AT3 Converter](https://www.psx-place.com/threads/at9-at3-converter-by-benmitnick-updated-to-v2-3.14356/)
 - [DB Browser for SQLite](https://sqlitebrowser.org/)
 - [Duxa's PS4 Patch Repackager 7.2.18](https://www.psxhax.com/threads/ps4-pkg-repackager-to-repackage-fake-updates-by-duxa-chrushev.5037/)
+- [FileZilla](https://filezilla-project.org/)
 - [PS4 Offline Account Activator](https://www.psxhax.com/threads/ps4offlineaccountactivator-ps4-offline-account-activator-gui-by-charlyzard-barthen.7347/)
 - [PS4 Save Mounter](https://github.com/ChendoChap/Playstation-4-Save-Mounter)
 - [PS4-AIO](https://www.psxhax.com/threads/ps4-aio-batch-file-script-for-games-updates-with-fpkg-tools-by-jation.12537/)
@@ -72,6 +73,7 @@ In this guide any file mentioned will be listed in (Releases).
 ---
 
 - AT9 - AT3 Converter [BenMitnicK](https://github.com/BenMitnicK)
+- FileZilla [FileZillaPro](https://filezillapro.com/)
 - DB Browser for SQLite [sqlitebrowser](https://github.com/sqlitebrowser/) - [Patreon](https://www.patreon.com/db4s)
 - Duxa's PS4 Patch Repackager 7.2.18 [Chrushev](https://www.psxhax.com/members/357134/)
 - PS4 Offline Account Activator [charlyzard](https://github.com/charlyzard)
