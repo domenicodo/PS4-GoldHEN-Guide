@@ -1,5 +1,5 @@
 # PS4-GoldHEN-Guide
-This is a repository contains a guide for how to enable GoldHEN (Homebrew ENabler).
+This is a repository contains a guide for how to enable GoldHEN (Homebrew ENabler) on your PlayStation 4.
 
 GoldHEN Sections: [Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)
 
